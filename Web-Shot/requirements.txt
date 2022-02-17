@@ -1,6 +1,0 @@
-Pillow==9.0.0
-selenium==4.1.0
-pyfiglet==0.8.post1
-termcolor==1.0.0
-validators==0.18.2
-cryptography==36.0.1
