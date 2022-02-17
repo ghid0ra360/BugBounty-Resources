@@ -100,8 +100,4 @@ def web_shot():
 
         sleep(3)
 
-
-
-
-
 web_shot()
